@@ -23,7 +23,7 @@
 # CONCLUSIONS:
 • Identified 592 games where team listed as betting favorite missed beating spread <br>
 • Examined 564 players that played in the 592 games & flagged 219 such irregularities when player on betting favorite team player on betting favorite team misses their average points scored by at least 10  <br>
-• Identified Players With Multiple Occurrences: 
+• Identified players with multiple occurrences: 
 ![players](https://github.com/user-attachments/assets/94c34736-5005-4e0c-8f98-2544ee29638b)
 
 
